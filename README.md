@@ -2,7 +2,7 @@
 
 ### Simple data structures implemented with JS.
 
-### Data structures that will be implemented: 
+### Data structures that will be implemented
 * Arrays
 * Hash Tables
 * LinkedLists
